@@ -1,4 +1,4 @@
-redis==3.5.2
+redis==4.5.3
 scimschema==0.1.67
 uwsgi==2.0.18
 flask==1.1.2
