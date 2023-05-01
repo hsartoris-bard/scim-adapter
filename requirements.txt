@@ -1,5 +1,5 @@
 redis==3.5.2
 scimschema==0.1.67
 uwsgi==2.0.18
-flask==1.1.2
+flask==2.3.2
 flask-restful
